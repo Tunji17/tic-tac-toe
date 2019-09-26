@@ -28,9 +28,9 @@ should display win message
 check if there's a tie
 
 ### Prerequisites
-1> git clone git@github.com:Tunji17/tic-tac-toe.git
-2> run the index.html file with live server
-3> start playing 
+> git clone git@github.com:Tunji17/tic-tac-toe.git
+2 run the index.html file with live server
+3 start playing 
 
 ### Deployment 
 Deploy on ghpages - https://tunji17.github.io/tic-tac-toe/
