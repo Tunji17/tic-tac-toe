@@ -9,7 +9,7 @@ A player is able to compete against the computer. Tic Tac Toe is a finite-sum ga
 ##### `startGame()`
 should start the game
 
-##### `onClickOfSquares(row, col)`
+##### `onClickOfSquares()`
 should properly call playturn function when user clicks and passes the turn to the computer to play 
 
 ##### `playTurn()`
@@ -28,9 +28,9 @@ should display win message
 check if there's a tie
 
 ### Prerequisites
-1. git clone git@github.com:Tunji17/tic-tac-toe.git
-2. run the index.html file with live server
-3. start playing 
+> git clone git@github.com:Tunji17/tic-tac-toe.git
+> run the index.html file with live server
+> start playing 
 
 ### Deployment 
 Deploy on ghpages - https://tunji17.github.io/tic-tac-toe/
